@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\bin\Debug\net6.0\sharp_23-11-2022_Linq-1.exe
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\bin\Debug\net6.0\sharp_23-11-2022_Linq-1.deps.json
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\bin\Debug\net6.0\sharp_23-11-2022_Linq-1.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\bin\Debug\net6.0\sharp_23-11-2022_Linq-1.dll
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\bin\Debug\net6.0\sharp_23-11-2022_Linq-1.pdb
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.dll
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\refint\sharp_23-11-2022_Linq-1.dll
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.pdb
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\sharp_23-11-2022_Linq-1.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\sharp_23-11-2022_Linq-1\obj\Debug\net6.0\ref\sharp_23-11-2022_Linq-1.dll
